@@ -19,7 +19,7 @@ let breakEvenUnits = Math.ceil(fixedMonthlyCosts / profitPerUnit);
 
 let isProfitablePerUnit = profitPerUnit > ;
 
-// Step 3: Print to Console
+// Step 3: Print to Console for HTML Display
 
 console.log("Product Name:", productName);
 
