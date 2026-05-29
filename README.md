@@ -1,2 +1,2 @@
 # Product-Pricing-Assistant
-Product Pricing Assistant- Code Challenge 2
+ Code Challenge 2
