@@ -17,7 +17,7 @@ let profitPerUnit = finalPriceWithTax - costPerUnit;
 
 let breakEvenUnits = Math.ceil(fixedMonthlyCosts / profitPerUnit);
 
-let isProfitablePerUnit = profitPerUnit > 0;
+let isProfitablePerUnit = profitPerUnit > ;
 
 // Step 3: Print to Console
 
